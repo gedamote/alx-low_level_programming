@@ -6,7 +6,7 @@
  * Return:1
  */
 int main(void)
-{
-write(2, "and that piece of art is useful\" - Dora Korpar, 2015-10-19";
-return (1);
+{ART IS USEFUL\" - DORA KORPAR, 2015-10-19";
+WRITE(2, CH, SIZEOF(CH));
+RETURN (1);
 }
